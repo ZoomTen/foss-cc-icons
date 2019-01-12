@@ -1,0 +1,24 @@
+[Icon Theme]
+Name=FOSS-CC
+Comment=A unified icon set for multimedia-related FOSS apps inspired by Adobe's Creative Cloud.
+
+Inherits=elementary,breeze,gnome,hicolor,adwaita
+
+Directories=scalable/mime,scalable/apps
+
+# do we need this?
+FollowsColorScheme=true
+
+[scalable/mime]
+Size=48
+Context=MimeTypes
+Type=Scalable
+MinSize=8
+MaxSize=256
+
+[scalable/apps]
+Size=48
+Context=Applications
+Type=Scalable
+MinSize=8
+MaxSize=256

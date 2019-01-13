@@ -1,0 +1,28 @@
+<svg width="2500" height="2438" version="1.1" viewBox="0 130.75 595.28 580.4" xmlns="http://www.w3.org/2000/svg">
+ <radialGradient id="a" cx="-183.69" cy="328.97" r=".76" gradientTransform="matrix(545.67 0 0 528.31 100439 -173525)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#4b2d4f" stop-opacity=".98" offset="0"/>
+  <stop stop-color="#180024" offset="1"/>
+ </radialGradient>
+ <path d="m24.803 155.55h545.67v530.79h-545.67v-530.79z" fill="url(#a)"/>
+ <g transform="matrix(.23215 0 0 .23215 -744.88 293.56)">
+  <g transform="matrix(9.7062 0 0 9.7062 -5678.1 15166)" fill="#e579ff">
+   <g transform="matrix(1.0048 0 0 1.0048 -4.8161 7.0112)" fill-rule="evenodd" shape-rendering="auto">
+    <path d="m1024.1-1553.3v7.5h10.309v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <path d="m1015.9-1541.3v7.5h18.457v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <path d="m994.26-1529.2v7.5h40.125v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <path d="m972.15-1517.2v7.5h62.232v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <path d="m957.56-1505.1v7.5h76.818v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <path d="m981.86-1493v7.5h52.523v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <path d="m1003.2-1481v7.5h31.158v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <path d="m994.78-1468.9v7.5h39.6v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <path d="m1015.2-1457.4v7.5h19.135v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   </g>
+   <g transform="matrix(-3.514 0 0 3.514 1727.7 -3255.5)">
+    <path d="m188.32 478.62h9.275l-4.6375 7.0969z"/>
+    <path d="m192.36 479.93v37.214h1.1934v-37.214z" color="#000000" color-rendering="auto" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   </g>
+   <path d="m1067.2-1553.9c-1.5308-0.043-2.795 1.1863-2.7946 2.7177v98.692c1e-3 2.2199 2.5193 3.5021 4.3153 2.1974l67.972-49.344c1.4962-1.0852 1.4962-3.315 0-4.4002l-67.972-49.345c-0.4432-0.3217-0.9732-0.5022-1.5207-0.5175z" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+  </g>
+ </g>
+ <path d="m0 130.75v580.4h595.28v-580.4zm31.955 31.76h531.37v516.88h-531.37z" fill="#e579ff"/>
+</svg>

@@ -4,25 +4,15 @@
   <stop stop-color="#180024" offset="1"/>
  </radialGradient>
  <path d="m24.803 155.55h545.67v530.79h-545.67v-530.79z" fill="url(#a)"/>
- <g transform="matrix(.23215 0 0 .23215 -744.88 293.56)">
-  <g transform="matrix(9.7062 0 0 9.7062 -5678.1 15166)" fill="#e579ff">
-   <g transform="matrix(1.0048 0 0 1.0048 -4.8161 7.0112)" fill-rule="evenodd" shape-rendering="auto">
-    <path d="m1024.1-1553.3v7.5h10.309v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-    <path d="m1015.9-1541.3v7.5h18.457v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-    <path d="m994.26-1529.2v7.5h40.125v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-    <path d="m972.15-1517.2v7.5h62.232v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-    <path d="m957.56-1505.1v7.5h76.818v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-    <path d="m981.86-1493v7.5h52.523v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-    <path d="m1003.2-1481v7.5h31.158v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-    <path d="m994.78-1468.9v7.5h39.6v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-    <path d="m1015.2-1457.4v7.5h19.135v-7.5z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-   </g>
-   <g transform="matrix(-3.514 0 0 3.514 1727.7 -3255.5)">
-    <path d="m188.32 478.62h9.275l-4.6375 7.0969z"/>
-    <path d="m192.36 479.93v37.214h1.1934v-37.214z" color="#000000" color-rendering="auto" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-   </g>
-   <path d="m1067.2-1553.9c-1.5308-0.043-2.795 1.1863-2.7946 2.7177v98.692c1e-3 2.2199 2.5193 3.5021 4.3153 2.1974l67.972-49.344c1.4962-1.0852 1.4962-3.315 0-4.4002l-67.972-49.345c-0.4432-0.3217-0.9732-0.5022-1.5207-0.5175z" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-  </g>
- </g>
  <path d="m0 130.75v580.4h595.28v-580.4zm31.955 31.76h531.37v516.88h-531.37z" fill="#e579ff"/>
+ <g transform="matrix(5.6372 0 0 5.6821 -13808 -1789.5)" fill="#e579ff">
+  <g fill-rule="evenodd" shape-rendering="auto">
+   <path d="m2474.6 371.3v10.027h21.726v-7.2454h-0.017v-0.34962c0-1.1654-1.0931-2.2251-2.1993-2.4323h-19.508z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   <path d="m2466.3 388.02v10.027h30.082v-10.027z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   <path d="m2479.6 404.73v10.027h16.712v-10.027z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+  </g>
+  <path d="m2513.1 356.26h-20.055l10.027 15.812z"/>
+  <path d="m2504.7 366.66v53.106h-3.3423v-53.106z" color="#000000" color-rendering="auto" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+  <path d="m2512.3 371.31c-1.2309 0.0719-2.5563 1.2444-2.5532 2.5436l-0.046 38.358c0 1.7324 2.3536 3.2398 3.7 2.2107l25.367-19.245c1.3552-1.0164 1.3521-3.4008 0-4.4217l-25.32-19.113c-0.338-0.25502-0.7365-0.35663-1.147-0.3329z"/>
+ </g>
 </svg>

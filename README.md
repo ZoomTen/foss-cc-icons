@@ -33,6 +33,10 @@ Then, you may edit `index.theme` to make it show icons from your desired icon th
 
 ``Inherits=la-capitaine-icon-theme,gnome,hicolor,adwaita``
 
+## Additional Notes
+* OpenShot's *.osp MIME type has the icon set to "openshot", will display application icon instead of the filetype icon.
+       * To fix this, you might need to head over to `/usr/share/mime/packages/openshot-qt.xml` and remove line 6 entirely (where it says `icon="openshot"`). Then run `sudo update-mime-database /usr/share/mime`.
+
 ## Credits
 This icon set was made with a bit of help from the [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) and [Marwaita](https://github.com/kstenerud/marwaita) icon themes.
 

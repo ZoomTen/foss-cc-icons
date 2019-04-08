@@ -22,7 +22,7 @@ Some icons, for instance KompoZer and Cinelerra, may need to be simplified a lit
 By the way, I am not associated with Adobe in any way, shape or form.
 
 ## Where
-I plan to release this on opendesktop / *-look sites , when I have the time to do so. For now it's on GitHub and I'm pretty much a nobody here lol
+Now available on [OpenDesktop / *-look](https://www.opendesktop.org/p/1287085/)!
 
 Suggestions? File an "issue"! Or you could contribute by sending a pull request my way! I might be a little shy to review them, though.
 

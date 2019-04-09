@@ -1,0 +1,5 @@
+<svg id="ae_x5F_cc_x5F_app_x5F_RGB.svg" width="665" height="649" version="1.1" viewBox="0 0 665 649" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><defs><radialGradient id="radialGradient1129" cx="70.345" cy="44.114" r="110" gradientTransform="matrix(3.7618 0 .00021466 2.6863 -63.926 11.588)" gradientUnits="userSpaceOnUse"><stop stop-color="#003c33" offset="0"/><stop stop-color="#002620" stop-opacity=".98636" offset="1"/></radialGradient></defs>
+
+<rect x="27.709" y="30.392" width="609.6" height="590.99" fill="url(#radialGradient1129)" stroke-width="2.7663"/>
+
+<path d="m0 0.013672v648.99h665.02v-648.99h-665.02zm35.699 35.514h593.62v577.96h-593.62v-577.96z" fill="#06ff58"/><path d="m342.87 123.65-207.21 110.51v241.74l69.068 34.533 69.068-34.533v-82.883l-69.068-34.535v-82.881l138.14-75.977 138.14 75.977v82.881l-69.068 34.535v82.883l69.068 34.533 69.068-34.533v-241.74z" fill="#06ff58"/></svg>

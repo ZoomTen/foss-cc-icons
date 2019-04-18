@@ -1,0 +1,14 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="radialGradient1426" cx="23.212" cy="8.1636" r="16.003" gradientTransform="matrix(1.0985 0 0 1.4454 -2.286 -7.8531)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4e2f6c" offset="0"/>
+   <stop stop-color="#29143f" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path d="m10 4c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26.791c0-1.4861 0.12432-1.8536-0.76409-2.742l-7.892-7.6403c-0.37518-0.37518-1.1798-0.82706-1.7892-0.82706z" fill="url(#radialGradient1426)"/>
+ <g>
+  <path d="m10 3.1504c-1.5642 0-2.8496 1.2854-2.8496 2.8496v36c0 1.5642 1.2854 2.8496 2.8496 2.8496h28c1.5642 0 2.8496-1.2854 2.8496-2.8496v-26.791c0-0.71936 0.0492-1.2037-0.06641-1.7656-0.11561-0.56189-0.44565-1.0765-0.94531-1.5762l-0.0059-0.0059-7.8867-7.6348c-0.56348-0.56348-1.361-1.0761-2.3906-1.0761zm0 1.6992h19.555c0.18929 0 1.0007 0.3913 1.1875 0.57812l0.0059 0.00586 7.8867 7.6348c0.38875 0.38875 0.44004 0.50131 0.48438 0.7168s0.03125 0.65707 0.03125 1.4238v26.791c0 0.6518-0.49859 1.1504-1.1504 1.1504h-28c-0.6518 0-1.1504-0.49859-1.1504-1.1504v-36c0-0.6518 0.49859-1.1504 1.1504-1.1504z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#c792ff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m17.387 33.027v5.9473h1.2012v-1.6094l-0.11133-2.4785 1.1895 4.0879h0.81641l1.1875-4.0879-0.10938 2.4785v1.6094h1.2051v-5.9473h-1.5684l-1.1191 4.3027-1.123-4.3027h-1.5684zm6.3379 0v5.9473h3.3086v-0.99609h-2.1074v-4.9512h-1.2012zm2.9004 0v1.002h1.4473v4.9453h1.2051v-4.9453h1.4688v-1.002h-4.1211z" fill="#fff"/>
+  <path d="m17.233 11.381c-1.187 0-2.1426 0.92608-2.1426 2.0764v11.42c0 1.1503 0.95562 2.0764 2.1426 2.0764h2.2033v-15.573h-2.1426zm5.1007 0v15.573h7.9676c1.2038 0 2.173-0.92608 2.173-2.0764v-11.42c0-1.1503-0.96915-2.0764-2.173-2.0764h-5.7946z" fill="#c792ff" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>
